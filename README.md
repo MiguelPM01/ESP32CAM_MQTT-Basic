@@ -1,6 +1,6 @@
 # ESP32CAM_MQTT-Basic
 Este repositorio contiene el programa básico para conectar el ESP32CAM a MQTT, enviar y recibir mensajes.
-
+Este código pertenece a código IoT y esta siendo usado durante los cursos del mismo.
 Puedes encontrar el curso correspondiente a este ejercicio en el siguiente enlace.
 
 https://edu.codigoiot.com/
